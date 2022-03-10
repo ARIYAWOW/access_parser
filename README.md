@@ -38,8 +38,10 @@ db.print_database()
 
 This library was tested on a limited subset of database files. Due to the differences between database versions and the complexity of the parsing we expect to find more parsing edge-cases.
 
-To help us resolve issues faster please provide as much data as you can when opening an issue - DB file if possible and full trace including log messages.
- 
+To help us resolve issues faster please provide as much data as you can when opening an issue - DB file if possible and full trace including log messages.  
+
+### Update  
+Fix parsing string which mix Chinese and English
  
 ### Thanks
 * This library was made possible by the great work by mdb-tools. The logic in this library heavily relies on the excellent documentation they have https://github.com/brianb/mdbtools
