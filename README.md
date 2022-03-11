@@ -10,7 +10,7 @@ Microsoft Access (.mdb / .accdb) database files parser. The parsing logic is ful
 ~cd access_parser~  
 ~python3 setup.py install~  
   
-Just copy 
+Just copy access_parser to your project
 
 
 # Demo
