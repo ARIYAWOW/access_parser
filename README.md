@@ -6,7 +6,7 @@ Use pip: `pip install access-parser`
 
 ```Or install manually: 
 bash
-git clone https://github.com/ARIYAWOW/access_parser.git 
+git clone https://github.com/ClarotyICS/access_parser.git 
 cd access_parser
 python3 setup.py install 
 ```
