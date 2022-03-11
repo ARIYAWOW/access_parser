@@ -4,12 +4,14 @@ Microsoft Access (.mdb / .accdb) database files parser. The parsing logic is ful
 # Installing
 ~Use pip: `pip install access-parser`~
 
-Or install manually:
-```bash
-git clone https://github.com/ARIYAWOW/access_parser.git
-cd access_parser
-python3 setup.py install
-```
+~Or install manually:~  
+~bash~  
+~git clone https://github.com/ARIYAWOW/access_parser.git~  
+~cd access_parser~  
+~python3 setup.py install~  
+  
+Just copy 
+
 
 # Demo
 [![asciicast](https://asciinema.org/a/345445.svg)](https://asciinema.org/a/345445)
